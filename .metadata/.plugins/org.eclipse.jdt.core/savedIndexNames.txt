@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\HUY\OneDrive\Documents\GitHub\64130848-JavaProgramming\.metadata\.plugins\org.eclipse.jdt.core
+3579145170.index
+4280738564.index
+970863850.index
+1037872249.index
